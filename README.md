@@ -22,7 +22,7 @@
 </p>
 
 ## Sobre
-Projeto desenvolvido durante a Next Level Week #4 da @Rocketseat. Por meio de gamificação, o site une ciclos de estudo/trabalho e exercícios físicos.
+Projeto desenvolvido durante a Next Level Week #4 da @Rocketseat. Por meio de gamificação, o Move.it une ciclos de estudo/trabalho e exercícios físicos.
 
 
 ### Acesse os templates no Figma:
@@ -44,7 +44,7 @@ Execute os comandos no seu terminal:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/lorenatoscano/proffy.git
+$ git clone https://github.com/lorenatoscano/move.it.git
 
 # Entre no repositório
 $ cd move.it
