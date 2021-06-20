@@ -2,12 +2,12 @@ import { createContext, ReactNode, useContext, useEffect, useState } from "react
 import { ChallengesContext } from "./ChallengesContext";
 
 interface CountdownContextData {
-  minutes: number,
-  seconds: number,
-  hasFinished: boolean,
-  isActive: boolean,
-  startCountdown: () => void,
-  resetCountdown: () => void,
+  minutes: number;
+  seconds: number;
+  hasFinished: boolean;
+  isActive: boolean;
+  startCountdown: () => void;
+  resetCountdown: () => void;
 }
 
 interface CountdownProviderProps {
