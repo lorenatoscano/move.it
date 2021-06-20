@@ -28,6 +28,8 @@ Projeto desenvolvido durante a Next Level Week #4 da @Rocketseat. Por meio de ga
 ### Acesse os templates no Figma:
 - [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=160:2761)
 
+### Acesse a demo:
+https://moveit-lorenatoscano.vercel.app/
 
 ## Tecnologias utilizadas
 
