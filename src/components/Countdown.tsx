@@ -82,10 +82,6 @@ export function Countdown() {
           )}
         </>
       )}
-
-
-
-
     </div>
 
   );
