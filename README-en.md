@@ -20,57 +20,58 @@
 </p>
 
 <p align="center">
-  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-rodar">Como rodar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença-e-autora">Licença e Autora</a>
+  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies-used">Technologies used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-run">How to run?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license-and-author">License and Author</a>
 </p>
 
-## Sobre
-Projeto desenvolvido durante a Next Level Week #4 da @Rocketseat. Por meio de gamificação, o Move.it une ciclos de estudo/trabalho e exercícios físicos.
+## About
+
+Project developed during @Rocketseat's Next Level Week #4. Through gamification, Move.it unites study/work cycles and physical exercises.
 
 
-### Acesse os templates no Figma:
+### Access the models in Figma:
 - [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=160:2761)
 
-### Acesse a demo:
+### Access the demo:
 https://moveit-lorenatoscano.vercel.app/
 
-## Tecnologias utilizadas
+## Technologies used
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 
 
-## Como rodar?
+## How to run?
 
-Execute os comandos no seu terminal:
+Run the commands on your terminal:
 
 ```bash
-# Clone o repositório
+# Clone the repository
 $ git clone https://github.com/lorenatoscano/move.it.git
 
-# Entre no repositório
+# Enter the repository
 $ cd move.it
 
-# Instale as dependências
+# Install dependencies
 $ yarn install
 
-# Execute a aplicação
+# Run the application
 $ yarn dev
 ```
 
-Acesse em seu navegador http://localhost:3000/ para ver o resultado.
+Access in your browser http://localhost:3000/ to see the result.
 
 
-## Licença e Autora
+## License and Author
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lorenatoscano/move.it/blob/main/LICENSE) para mais detalhes.
+This project is under an MIT license. See the [LICENSE](https://github.com/lorenatoscano/move.it/blob/main/LICENSE) file for more details.
 
-Feito com :purple_heart: por [Lorena Toscano](https://github.com/lorenatoscano).
+Done with :purple_heart: by [Lorena Toscano](https://github.com/lorenatoscano).
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lorena_Toscano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorena-toscano-243432183/)](https://www.linkedin.com/in/lorena-toscano-243432183/)
