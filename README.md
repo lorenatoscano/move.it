@@ -11,7 +11,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lorenatoscano/move.it?color=5863d2">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/lorenatoscano/move.it.svg?color=5863d2">
+  <img alt="GitHub" src="https://img.shields.io/github/license/lorenatoscano/move.it?color=5863d2">
 </p>
 
 <p align="center">
